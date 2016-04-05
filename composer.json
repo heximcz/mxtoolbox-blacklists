@@ -13,8 +13,5 @@
       "name": "Lubomir Spacek",
       "homepage": "https://best-hosting.cz"
     }
-  ],
-  "config": {
-    "vendor-dir": "/vendor/mxtoolbox/mxtoolbox/src/MxToolbox/"
-  }
+  ]
 }
