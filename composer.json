@@ -1,0 +1,17 @@
+{
+  "name": "mxtoolbox-blacklists/mxtoolbox-blacklists",
+  "description": "IP blacklist files",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "mxtoolbox",
+    "dnsbl",
+    "blacklist"
+  ],
+  "authors": [
+    {
+      "name": "Lubomir Spacek",
+      "homepage": "https://best-hosting.cz"
+    }
+  ]
+}
