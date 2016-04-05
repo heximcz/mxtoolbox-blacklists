@@ -63,9 +63,8 @@ ips.backscatterer.org
 ips.whitelisted.org
 ix.dnsbl.manitu.net
 korea.services.net
-l1.bbfh.ext.sorbs.net
 l2.bbfh.ext.sorbs.net
-l3.bbfh.ext.sorbs.net
+l4.bbfh.ext.sorbs.net
 list.bbfh.org
 list.blogspambl.com
 mail-abuse.blacklist.jippg.org
@@ -106,7 +105,6 @@ safe.dnsbl.sorbs.net
 sbl-xbl.spamhaus.org
 sbl.nszones.com
 sbl.spamhaus.org
-service.mailblacklist.com
 service.mailwhitelist.com
 short.rbl.jp
 singular.ttk.pte.hu
