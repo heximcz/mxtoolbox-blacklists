@@ -24,7 +24,6 @@ block.dnsbl.sorbs.net
 bogons.cymru.com
 bsb.empty.us
 bsb.spamlookup.net
-cbl.abuseat.org
 cidr.bl.mcafee.com
 combined.rbl.msrbl.net
 db.wpbl.info
@@ -58,14 +57,13 @@ hul.habeas.com
 iadb.isipp.com
 iadb2.isipp.com
 images.rbl.msrbl.net
-ip.v4bl.org
 ips.backscatterer.org
 ips.whitelisted.org
 ix.dnsbl.manitu.net
 korea.services.net
 l1.bbfh.ext.sorbs.net
 l2.bbfh.ext.sorbs.net
-l4.bbfh.ext.sorbs.net
+l3.bbfh.ext.sorbs.net
 list.bbfh.org
 list.blogspambl.com
 mail-abuse.blacklist.jippg.org
@@ -94,6 +92,7 @@ rbl.efnet.org
 rbl.efnetrbl.org
 rbl.interserver.net
 rbl.lugh.ch
+rbl.megarbl.net
 recent.spam.dnsbl.sorbs.net
 red.uribl.com
 relays.dnsbl.sorbs.net
@@ -102,8 +101,11 @@ reputation-ip.rbl.scrolloutf1.com
 reputation-ns.rbl.scrolloutf1.com
 sa-accredit.habeas.com
 safe.dnsbl.sorbs.net
+sbl-xbl.spamhaus.org
 sbl.nszones.com
 sbl.spamhaus.org
+service.mailblacklist.com
+service.mailwhitelist.com
 short.rbl.jp
 singular.ttk.pte.hu
 smtp.dnsbl.sorbs.net
@@ -133,6 +135,7 @@ web.rbl.msrbl.net
 white.uribl.com
 whitelist.surriel.com
 wl.mailspike.net
+xbl.spamhaus.org
 z.mailspike.net
 zen.spamhaus.org
 zombie.dnsbl.sorbs.net
