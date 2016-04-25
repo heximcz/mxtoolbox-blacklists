@@ -42,7 +42,6 @@ black.uribl.com
 blackholes.scconsult.com
 blacklist.mail.ops.asp.att.net
 blacklist.mailrelay.att.net
-blacklist.netcore.co.in
 blacklist.sci.kun.nl
 blacklist.sequoia.ops.asp.att.net
 blacklist.woody.ch

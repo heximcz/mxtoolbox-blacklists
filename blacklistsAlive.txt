@@ -20,7 +20,6 @@ bl.spameatingmonkey.net
 bl.spamstinks.com
 bl.suomispam.net
 black.uribl.com
-blacklist.netcore.co.in
 block.dnsbl.sorbs.net
 bogons.cymru.com
 bsb.empty.us
