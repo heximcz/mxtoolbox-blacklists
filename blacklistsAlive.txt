@@ -20,10 +20,12 @@ bl.spameatingmonkey.net
 bl.spamstinks.com
 bl.suomispam.net
 black.uribl.com
+blacklist.netcore.co.in
 block.dnsbl.sorbs.net
 bogons.cymru.com
 bsb.empty.us
 bsb.spamlookup.net
+cbl.abuseat.org
 cidr.bl.mcafee.com
 combined.rbl.msrbl.net
 db.wpbl.info
@@ -33,6 +35,7 @@ dnsbl-2.uceprotect.net
 dnsbl-3.uceprotect.net
 dnsbl.anticaptcha.net
 dnsbl.aspnet.hu
+dnsbl.cobion.com
 dnsbl.dronebl.org
 dnsbl.inps.de
 dnsbl.justspam.org
@@ -63,7 +66,6 @@ ix.dnsbl.manitu.net
 korea.services.net
 l1.bbfh.ext.sorbs.net
 l2.bbfh.ext.sorbs.net
-l3.bbfh.ext.sorbs.net
 list.bbfh.org
 list.blogspambl.com
 mail-abuse.blacklist.jippg.org
