@@ -1,4 +1,3 @@
-access.redhawk.org
 accredit.habeas.com
 all.rbl.jp
 all.s5h.net
@@ -27,20 +26,16 @@ bsb.spamlookup.net
 cbl.abuseat.org
 cidr.bl.mcafee.com
 combined.rbl.msrbl.net
-db.wpbl.info
 dnsbl-0.uceprotect.net
 dnsbl-1.uceprotect.net
 dnsbl-2.uceprotect.net
 dnsbl-3.uceprotect.net
 dnsbl.anticaptcha.net
-dnsbl.aspnet.hu
-dnsbl.cobion.com
 dnsbl.dronebl.org
 dnsbl.inps.de
 dnsbl.justspam.org
 dnsbl.kempt.net
 dnsbl.madavi.de
-dnsbl.rv-soft.info
 dnsbl.rymsho.ru
 dnsbl.sorbs.net
 dnsbl.zapbl.net
@@ -50,9 +45,11 @@ dob.sibl.support-intelligence.net
 dul.dnsbl.borderware.com
 dul.dnsbl.sorbs.net
 dul.pacifier.net
+dunk.dnsbl.tuxad.de
 dyna.spamrats.com
 escalations.dnsbl.sorbs.net
 grey.uribl.com
+hartkore.dnsbl.tuxad.de
 hostkarma.junkemailfilter.com
 http.dnsbl.sorbs.net
 hul.habeas.com
@@ -63,8 +60,8 @@ ips.backscatterer.org
 ips.whitelisted.org
 ix.dnsbl.manitu.net
 korea.services.net
-l1.bbfh.ext.sorbs.net
 l2.bbfh.ext.sorbs.net
+l4.bbfh.ext.sorbs.net
 list.bbfh.org
 list.blogspambl.com
 mail-abuse.blacklist.jippg.org
@@ -98,6 +95,7 @@ recent.spam.dnsbl.sorbs.net
 red.uribl.com
 relays.dnsbl.sorbs.net
 rep.mailspike.net
+reputation-domain.rbl.scrolloutf1.com
 reputation-ip.rbl.scrolloutf1.com
 reputation-ns.rbl.scrolloutf1.com
 sa-accredit.habeas.com
@@ -105,8 +103,6 @@ safe.dnsbl.sorbs.net
 sbl-xbl.spamhaus.org
 sbl.nszones.com
 sbl.spamhaus.org
-service.mailblacklist.com
-service.mailwhitelist.com
 short.rbl.jp
 singular.ttk.pte.hu
 smtp.dnsbl.sorbs.net
