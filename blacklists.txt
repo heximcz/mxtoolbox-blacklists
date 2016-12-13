@@ -18,6 +18,7 @@ aspews.ext.sorbs.net
 b.barracudacentral.org
 backscatter.spameatingmonkey.net
 badconf.rhsbl.sorbs.net
+bad.psky.me
 badnets.spameatingmonkey.net
 bb.barracudacentral.org
 bitonly.dnsbl.bit.nl

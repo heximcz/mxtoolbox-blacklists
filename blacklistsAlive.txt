@@ -5,6 +5,7 @@ all.spamrats.com
 aspews.ext.sorbs.net
 b.barracudacentral.org
 backscatter.spameatingmonkey.net
+bad.psky.me
 bb.barracudacentral.org
 bl.blocklist.de
 bl.emailbasura.org
@@ -26,6 +27,7 @@ bsb.spamlookup.net
 cbl.abuseat.org
 cidr.bl.mcafee.com
 combined.rbl.msrbl.net
+db.wpbl.info
 dnsbl-0.uceprotect.net
 dnsbl-1.uceprotect.net
 dnsbl-2.uceprotect.net
@@ -36,6 +38,7 @@ dnsbl.inps.de
 dnsbl.justspam.org
 dnsbl.kempt.net
 dnsbl.madavi.de
+dnsbl.rv-soft.info
 dnsbl.rymsho.ru
 dnsbl.sorbs.net
 dnsbl.zapbl.net
@@ -61,7 +64,7 @@ ips.whitelisted.org
 ix.dnsbl.manitu.net
 korea.services.net
 l2.bbfh.ext.sorbs.net
-l4.bbfh.ext.sorbs.net
+l3.bbfh.ext.sorbs.net
 list.bbfh.org
 list.blogspambl.com
 mail-abuse.blacklist.jippg.org
@@ -95,7 +98,6 @@ recent.spam.dnsbl.sorbs.net
 red.uribl.com
 relays.dnsbl.sorbs.net
 rep.mailspike.net
-reputation-domain.rbl.scrolloutf1.com
 reputation-ip.rbl.scrolloutf1.com
 reputation-ns.rbl.scrolloutf1.com
 sa-accredit.habeas.com
@@ -126,7 +128,6 @@ ubl.unsubscore.com
 v4.fullbogons.cymru.com
 virbl.dnsbl.bit.nl
 virus.rbl.msrbl.net
-wadb.isipp.com
 web.dnsbl.sorbs.net
 web.rbl.msrbl.net
 white.uribl.com
